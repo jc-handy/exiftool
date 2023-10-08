@@ -10,7 +10,7 @@ build-backend = "setuptools.build_meta"
 # No actual content is required.
 
 [project]
-name = "exiftool"
+name = "jc-handy-exiftool"
 dynamic = ["version"]
 authors = [
   {name = "Jeff Clough", email = "jeff@cloughcottage.com"},
@@ -25,4 +25,4 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/jeffclough/handy"
+"Homepage" = "https://github.com/orgs/jc-handy/repositories"
