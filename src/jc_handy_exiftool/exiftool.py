@@ -135,3 +135,4 @@ def readfile(filename):
 #    #  if not var.startswith('__'):
 #    #    print(f"{var}: {type(getattr(exif,var))}")
 #    print(f"=== {filename} ===\n{exif}\n")
+
