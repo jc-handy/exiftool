@@ -10,7 +10,7 @@ build-backend = "setuptools.build_meta"
 # No actual content is required.
 
 [project]
-name = "jc-handy-exiftool"
+name = "jc_handy_exiftool"
 dynamic = ["version"]
 authors = [
   {name = "Jeff Clough", email = "jeff@cloughcottage.com"},
